@@ -1,0 +1,432 @@
+{
+  "messages": [],
+  "arrangements": {
+    "total": 9,
+    "hiCounter": 0,
+    "isMoreThanMaxHINGAIndicator": false,
+    "size": 50,
+    "page": 0,
+    "items": [
+      {
+        "type": "CURRENT_ACCOUNT",
+        "messages": [],
+        "messageMap": [],
+        "businessName": null,
+        "businessId": "+00695691566",
+        "fullSignatory": true,
+        "id": "1260OWEGXWFPRK2YWD3QTWCX4D6XD4SHUHKRES3MF5NDOJYWNA2X4Q5Q",
+        "startDate": "2008-05-30T00:00:00+01:00",
+        "dormant": false,
+        "acceptsTransfers": true,
+        "makeTransferAvailable": true,
+        "makePaymentAvailable": true,
+        "createBeneficiaryAvailable": true,
+        "otherBrand": false,
+        "otherBrandBankName": null,
+        "nonMigratedAccount": false,
+        "makeDirectDebitAvailable": true,
+        "makeStandingOrderAvailable": true,
+        "applyOverdraft": false,
+        "manageOverdraft": false,
+        "internationalPaymentAvailable": true,
+        "viewPendingTransactionsAvailable": false,
+        "lostandStolenEnabled": true,
+        "orderCollateralEnabled": true,
+        "osrEnabled": false,
+        "viewPendingPaymentsAvailable": true,
+        "isLoanServicingEligble": false,
+        "manageCreditLimitEnabled": false,
+        "isEligibleForVTD": false,
+        "balanceTransferEnabled": false,
+        "accountName": "Classic",
+        "accountNumber": "15541260",
+        "sortCode": "309812",
+        "balance": {
+          "amount": 10124,
+          "currency": "GBP"
+        },
+        "noticeAccount": false,
+        "makeP2pPaymentAvailable": true,
+        "p2pRegistrationAvailable": true,
+        "availableBalance": {
+          "amount": 9954,
+          "currency": "GBP"
+        },
+        "overdraftLimit": {
+          "amount": 0,
+          "currency": "GBP"
+        },
+        "kirkEligible": null,
+        "cashEstimatorPreference": false,
+        "displayUseOurEstimate": false
+      },
+      {
+        "type": "ISA_ACCOUNT",
+        "messages": [],
+        "messageMap": [],
+        "businessName": null,
+        "businessId": "+00393561786",
+        "fullSignatory": true,
+        "id": "0660OWEGXWFPRK2YWJT3ERUO2XWGXUSHUHKRES3MF5NDOJYWNA2X4Q5Q",
+        "startDate": "2016-09-23T00:00:00Z",
+        "dormant": false,
+        "acceptsTransfers": true,
+        "makeTransferAvailable": true,
+        "makePaymentAvailable": false,
+        "createBeneficiaryAvailable": false,
+        "otherBrand": false,
+        "otherBrandBankName": null,
+        "nonMigratedAccount": false,
+        "makeDirectDebitAvailable": false,
+        "makeStandingOrderAvailable": false,
+        "applyOverdraft": false,
+        "manageOverdraft": false,
+        "internationalPaymentAvailable": false,
+        "viewPendingTransactionsAvailable": false,
+        "lostandStolenEnabled": true,
+        "orderCollateralEnabled": true,
+        "osrEnabled": false,
+        "viewPendingPaymentsAvailable": false,
+        "isLoanServicingEligble": false,
+        "isPayInChequeEligible": true,
+        "isViewChequeHistoryEligible": true,
+        "manageCreditLimitEnabled": false,
+        "isEligibleForVTD": true,
+        "isAccessPaperlessStatementEnabled": false,
+        "isReorderStatementEnabled": true,
+        "balanceTransferEnabled": false,
+        "moneyTransferEnabled": false,
+        "accountName": "Cash ISA Saver",
+        "accountNumber": "01407468",
+        "sortCode": "770102",
+        "balance": {
+          "amount": 1003,
+          "currency": "GBP"
+        },
+        "noticeAccount": false,
+        "makeP2pPaymentAvailable": false,
+        "p2pRegistrationAvailable": false,
+        "makeISATopupAvailable": true,
+        "remainingAllowance": {
+          "amount": 14237,
+          "currency": "GBP"
+        },
+        "interestRate": {
+          "rate": 0.6
+        },
+        "totalDepositAmount": {
+          "amount": 1003,
+          "currency": "GBP"
+        },
+        "isReActivationRequired": false,
+        "interestRateDetails": {
+          "interestType": "1",
+          "errorFlag": false,
+          "rateDetails": [
+            {
+              "interestRate": "0.6000",
+              "balanceRange": "0"
+            }
+          ]
+        }
+      },
+      {
+        "type": "CURRENT_ACCOUNT",
+        "messages": [],
+        "messageMap": [],
+        "businessName": null,
+        "businessId": "+00695691566",
+        "fullSignatory": true,
+        "id": "1060OWEGXWFPRK2YXSKLG4EVGW2Q5ISHUHKRES3MF5NDOJYWNA2X4Q5Q",
+        "startDate": "2008-06-03T00:00:00+01:00",
+        "dormant": false,
+        "acceptsTransfers": true,
+        "makeTransferAvailable": true,
+        "makePaymentAvailable": true,
+        "createBeneficiaryAvailable": true,
+        "otherBrand": false,
+        "otherBrandBankName": null,
+        "nonMigratedAccount": false,
+        "makeDirectDebitAvailable": true,
+        "makeStandingOrderAvailable": true,
+        "applyOverdraft": false,
+        "manageOverdraft": false,
+        "internationalPaymentAvailable": false,
+        "viewPendingTransactionsAvailable": false,
+        "lostandStolenEnabled": true,
+        "orderCollateralEnabled": true,
+        "osrEnabled": false,
+        "viewPendingPaymentsAvailable": true,
+        "isLoanServicingEligble": false,
+        "manageCreditLimitEnabled": false,
+        "isEligibleForVTD": false,
+        "balanceTransferEnabled": false,
+        "accountName": "Classic 2",
+        "accountNumber": "15551060",
+        "sortCode": "309812",
+        "balance": {
+          "amount": 1011,
+          "currency": "GBP"
+        },
+        "noticeAccount": false,
+        "makeP2pPaymentAvailable": true,
+        "p2pRegistrationAvailable": true,
+        "availableBalance": {
+          "amount": 1011,
+          "currency": "GBP"
+        },
+        "overdraftLimit": {
+          "amount": 0,
+          "currency": "GBP"
+        },
+        "kirkEligible": null,
+        "cashEstimatorPreference": false,
+        "displayUseOurEstimate": false
+      },
+      {
+        "type": "ISA_ACCOUNT",
+        "messages": [],
+        "messageMap": [],
+        "businessName": null,
+        "businessId": "+00393561786",
+        "fullSignatory": true,
+        "id": "9960OWEGXWFPRK2YXBND6DOH5MKA5ESHUHKRES3MF5NDOJYWNA2X4Q5Q",
+        "startDate": "2016-09-23T00:00:00Z",
+        "dormant": false,
+        "acceptsTransfers": true,
+        "makeTransferAvailable": true,
+        "makePaymentAvailable": false,
+        "createBeneficiaryAvailable": false,
+        "otherBrand": false,
+        "otherBrandBankName": null,
+        "nonMigratedAccount": false,
+        "makeDirectDebitAvailable": false,
+        "makeStandingOrderAvailable": false,
+        "applyOverdraft": false,
+        "manageOverdraft": false,
+        "internationalPaymentAvailable": false,
+        "viewPendingTransactionsAvailable": false,
+        "lostandStolenEnabled": true,
+        "orderCollateralEnabled": true,
+        "osrEnabled": false,
+        "viewPendingPaymentsAvailable": false,
+        "isLoanServicingEligble": false,
+        "isPayInChequeEligible": true,
+        "isViewChequeHistoryEligible": true,
+        "manageCreditLimitEnabled": false,
+        "isEligibleForVTD": true,
+        "isAccessPaperlessStatementEnabled": false,
+        "isReorderStatementEnabled": true,
+        "balanceTransferEnabled": false,
+        "moneyTransferEnabled": false,
+        "accountName": "Cash ISA Saver 2",
+        "accountNumber": "15576790",
+        "sortCode": "770102",
+        "balance": {
+          "amount": 1003,
+          "currency": "GBP"
+        },
+        "noticeAccount": false,
+        "makeP2pPaymentAvailable": false,
+        "p2pRegistrationAvailable": false,
+        "makeISATopupAvailable": true,
+        "remainingAllowance": {
+          "amount": 14237,
+          "currency": "GBP"
+        },
+        "interestRate": {
+          "rate": 0.6
+        },
+        "totalDepositAmount": {
+          "amount": 1003,
+          "currency": "GBP"
+        },
+        "isReActivationRequired": false,
+        "interestRateDetails": {
+          "interestType": "1",
+          "errorFlag": false,
+          "rateDetails": [
+            {
+              "interestRate": "0.6000",
+              "balanceRange": "0"
+            }
+          ]
+        }
+      },
+      {
+        "type": "CURRENT_ACCOUNT",
+        "messages": [],
+        "messageMap": [],
+        "businessName": null,
+        "businessId": "+00695691566",
+        "fullSignatory": true,
+        "id": "OWEGXWFPRK2YWZ5Y3ENDEHKMNESHUHKRES3MF5NDOJYWNA2X4Q5Q",
+        "startDate": "2008-06-03T00:00:00+01:00",
+        "dormant": false,
+        "acceptsTransfers": true,
+        "makeTransferAvailable": false,
+        "makePaymentAvailable": true,
+        "createBeneficiaryAvailable": true,
+        "otherBrand": false,
+        "otherBrandBankName": null,
+        "nonMigratedAccount": false,
+        "makeDirectDebitAvailable": true,
+        "makeStandingOrderAvailable": true,
+        "applyOverdraft": false,
+        "manageOverdraft": false,
+        "internationalPaymentAvailable": true,
+        "viewPendingTransactionsAvailable": false,
+        "lostandStolenEnabled": true,
+        "orderCollateralEnabled": true,
+        "osrEnabled": false,
+        "viewPendingPaymentsAvailable": true,
+        "isLoanServicingEligble": false,
+        "manageCreditLimitEnabled": false,
+        "isEligibleForVTD": false,
+        "balanceTransferEnabled": false,
+        "accountName": "Classic 4",
+        "accountNumber": "15552560",
+        "sortCode": "309812",
+        "balance": {
+          "amount": 1000,
+          "currency": "GBP"
+        },
+        "noticeAccount": false,
+        "makeP2pPaymentAvailable": true,
+        "p2pRegistrationAvailable": true,
+        "availableBalance": {
+          "amount": 1000,
+          "currency": "GBP"
+        },
+        "overdraftLimit": {
+          "amount": 0,
+          "currency": "GBP"
+        },
+        "kirkEligible": null,
+        "cashEstimatorPreference": false,
+        "displayUseOurEstimate": false
+      },
+      {
+        "type": "SAVINGS_ACCOUNT",
+        "messages": [],
+        "messageMap": [],
+        "businessName": null,
+        "businessId": "+00031257258",
+        "fullSignatory": true,
+        "id": "OWEGXWFPRK2YWB65UKSEEJA6M2FD2TTLRJYY45BMQ5COIGSUP4WQ",
+        "startDate": "2016-12-06T00:00:00Z",
+        "dormant": false,
+        "acceptsTransfers": true,
+        "makeTransferAvailable": false,
+        "makePaymentAvailable": false,
+        "createBeneficiaryAvailable": false,
+        "otherBrand": false,
+        "otherBrandBankName": null,
+        "nonMigratedAccount": false,
+        "makeDirectDebitAvailable": false,
+        "makeStandingOrderAvailable": false,
+        "applyOverdraft": false,
+        "manageOverdraft": false,
+        "internationalPaymentAvailable": false,
+        "viewPendingTransactionsAvailable": false,
+        "lostandStolenEnabled": true,
+        "orderCollateralEnabled": true,
+        "osrEnabled": false,
+        "viewPendingPaymentsAvailable": false,
+        "isLoanServicingEligble": false,
+        "manageCreditLimitEnabled": false,
+        "isEligibleForVTD": false,
+        "isAccessPaperlessStatementEnabled": false,
+        "isReorderStatementEnabled": false,
+        "balanceTransferEnabled": false,
+        "accountName": "Club Lloyds Monthly Saver",
+        "accountNumber": "42789068",
+        "sortCode": "309725",
+        "balance": {
+          "amount": 25,
+          "currency": "GBP"
+        },
+        "noticeAccount": false,
+        "makeP2pPaymentAvailable": false,
+        "p2pRegistrationAvailable": false,
+        "availableBalance": {
+          "amount": 25,
+          "currency": "GBP"
+        },
+        "interestRate": {
+          "rate": 3
+        }
+      },
+      {
+        "acceptsTransfers": true,
+        "accountName": "ISA SAVER FIXED 2Yr",
+        "accountNumber": "24091462",
+        "applyOverdraft": false,
+        "balance": {
+          "amount": 0,
+          "currency": "GBP"
+        },
+        "balanceTransferEnabled": false,
+        "businessId": "+00611386763",
+        "businessName": null,
+        "createBeneficiaryAvailable": false,
+        "dormant": false,
+        "fullSignatory": true,
+        "id": "OWEGXWFPRK2YWTVNV2Y2TEKGUND7PACEAKYHAPQEDN75P6TZOSMQ",
+        "interestRate": {
+          "rate": "0"
+        },
+        "interestRateDetails": {
+          "interestType": "1",
+          "errorFlag": false,
+          "rateDetails": [
+            {
+              "interestRate": "0.0000",
+              "balanceRange": "0"
+            }
+          ]
+        },
+        "internationalPaymentAvailable": false,
+        "isAccessPaperlessStatementEnabled": false,
+        "isEligibleForVTD": false,
+        "isLoanServicingEligble": false,
+        "isPayInChequeEligible": false,
+        "isReActivationRequired": false,
+        "isReorderStatementEnabled": true,
+        "isViewChequeHistoryEligible": false,
+        "lostandStolenEnabled": true,
+        "makeDirectDebitAvailable": false,
+        "makeISATopupAvailable": false,
+        "makeP2pPaymentAvailable": false,
+        "makePaymentAvailable": false,
+        "makeStandingOrderAvailable": false,
+        "makeTransferAvailable": false,
+        "manageCreditLimitEnabled": false,
+        "manageOverdraft": false,
+        "messageMap": [],
+        "messages": [],
+        "moneyTransferEnabled": false,
+        "nonMigratedAccount": false,
+        "noticeAccount": false,
+        "orderCollateralEnabled": true,
+        "osrEnabled": false,
+        "otherBrand": false,
+        "otherBrandBankName": null,
+        "p2pRegistrationAvailable": false,
+        "remainingAllowance": {
+          "amount": 0,
+          "currency": "GBP"
+        },
+        "sortCode": "116457",
+        "startDate": "2016-01-08T00:00:00Z",
+        "totalDepositAmount": {
+          "amount": 0,
+          "currency": "GBP"
+        },
+        "type": "ISA_ACCOUNT",
+        "viewPendingPaymentsAvailable": false,
+        "viewPendingTransactionsAvailable": false
+      }
+    ]
+  }
+}
